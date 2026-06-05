@@ -1,0 +1,42 @@
+# ESP-IDF — artefactos de compilación
+build/
+sdkconfig
+sdkconfig.old
+sdkconfig.defaults.old
+dependencies.lock
+managed_components/
+
+# Binarios y objetos
+*.bin
+*.elf
+*.map
+*.o
+*.d
+
+# Python (scripts Raspberry Pi)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Archivos de datos temporales (telemetría, logs, gráficas)
+*.csv
+*.dat
+*.log
+*.png
+*.svg
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
