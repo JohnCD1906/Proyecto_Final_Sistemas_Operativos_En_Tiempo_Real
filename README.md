@@ -87,8 +87,8 @@ idf.py flash monitor
 | Paso | Descripción                                    | Estado      |
 |------|------------------------------------------------|-------------|
 | 1    | Esqueleto: tareas en ambos cores + estado      | ✅ Completo  |
-| 2    | PWM software motor DC y servomotor             | 🔲 Pendiente |
-| 3    | Puertos touch + rampas monótonas               | 🔲 Pendiente |
+| 2    | PWM software motor DC y servomotor             | ✅ Completo  |
+| 3    | Puertos touch + rampas monótonas               | ✅ Completo  |
 | 4    | Contador de LEDs (sentido servo)               | 🔲 Pendiente |
 | 5    | Sensores DHT + ADC temperatura                 | 🔲 Pendiente |
 | 6    | Display LCD                                    | 🔲 Pendiente |
